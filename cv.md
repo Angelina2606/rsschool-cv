@@ -14,7 +14,7 @@ I started learning HTML, CSS, and JS in college, but then I got into creating in
 + JS(basic)
 + Bootstrap
 ## Example of code
-![code](\code.png "code")
+![code](/code.png "code")
 
 ## Project
 CV
